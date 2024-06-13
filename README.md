@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Hi there 👋, I'm XiaotianC
+Welcome to my GitHub profile!
+<pre>
+    MBTI:ISFJ
+    Music • Games • Anime • Code • Art
+</pre>
 <!--
 **xiaotian7196/xiaotian7196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
